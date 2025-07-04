@@ -1,8 +1,9 @@
  #tt2{ 
     color: deeppink;
     font-family: 'Times New Roman', Times, serif;
+ }
+    body{
+       background-color: rgb(193, 226, 215);
 
- }
- body{
-    background-image: url(look.pjg);
- }
+    }
+ 
