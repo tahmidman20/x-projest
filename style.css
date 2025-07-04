@@ -6,4 +6,10 @@
        background-color: rgb(193, 226, 215);
 
     }
+    p{
+        border: 4px solid rgb(242, 255, 58);
+        background-color: black;
+        color: #ffa4a4;
+        margin: 10px;padding: 20px;
+    }
  
